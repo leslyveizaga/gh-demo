@@ -1,2 +1,6 @@
 # gh-demo
-This is a simple repo for clas..
+This is a simple repo for class..
+
+## Heading two
+
+testing.
